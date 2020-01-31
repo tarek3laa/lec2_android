@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lec2</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">price : </string>
+    <string name="currency">$</string>
+    <string name="order">order</string>
+    <string name="whipped_cream">whipped cream \t\t\t\t\t 1$</string>
+    <string name="chocolate">chocolate \t\t\t\t\t\t\t\t\t 2$</string>
+
+</resources>
